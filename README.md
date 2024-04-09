@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Welcome to My GitHub Page!
 
-![Profile Picture](https://avatars.githubusercontent.com/u/12345678?v=4)
+<!--![Profile Picture](https://avatars.githubusercontent.com/u/12345678?v=4)-->
 
 Hi there! I'm Demir Elmas, a passionate young software developer with a keen interest in backend development and machine learning. Currently, I'm a member of BSDSA (Bocconi Students Data Science Association) where I actively engage in various data science projects and activities.
 
@@ -43,7 +43,7 @@ As a member of BSDSA, I actively contribute to various data science initiatives 
 
 ## Contact Me
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/johndoe) or [Twitter](https://twitter.com/johndoe_dev). You can also connect with me on [GitHub](https://www.linkedin.com/in/demir-elmas-535695263/) to stay updated on my latest projects and contributions.
+Feel free to reach out to me on [GitHub](https://www.linkedin.com/in/demir-elmas-535695263/) to stay updated on my latest projects and contributions.
 
 [![Follow on GitHub](https://img.shields.io/github/followers/dmeirLemas.svg?style=social)](https://github.com/dmeirLemas)
 
