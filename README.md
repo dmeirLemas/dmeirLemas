@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Welcome to My GitHub Page!
+<img width="687" alt="Screenshot 2024-04-09 at 18 07 22" src="https://github.com/dmeirLemas/dmeirLemas/assets/139283843/eeae183c-1241-4e8b-9ab8-5705d03e0436">
 
 <!--![Profile Picture](https://avatars.githubusercontent.com/u/12345678?v=4)-->
 
