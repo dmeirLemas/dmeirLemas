@@ -45,6 +45,6 @@ As a member of BSDSA, I actively contribute to various data science initiatives 
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/johndoe) or [Twitter](https://twitter.com/johndoe_dev). You can also connect with me on [GitHub](https://www.linkedin.com/in/demir-elmas-535695263/) to stay updated on my latest projects and contributions.
 
-[![Follow on GitHub](https://img.shields.io/github/followers/johndoe.svg?style=social)](https://github.com/johndoe)
+[![Follow on GitHub](https://img.shields.io/github/followers/dmeirLemas.svg?style=social)](https://github.com/dmeirLemas)
 
 
