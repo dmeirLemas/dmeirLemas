@@ -38,6 +38,18 @@ Description: Developed a scalable backend system for an e-commerce platform usin
 
 Description: Built a sentiment analysis model using natural language processing techniques and trained it on a large dataset of movie reviews. Achieved an accuracy of over 85% in classifying sentiment polarity.
 -->
+
+Here are some of the projects I've worked (and I am still workin) on recently:
+
+1. [Stock Risk Predictor] - This algorithm uses neural networks to predict how volatile a stock is by assigning it a score based on if it is going to go up or down.
+
+Technologies used: [Python, LSTM, ANN]
+Link to the project: [Link]
+
+2. [Carbon Markets Website] - Here my team and I created a website for a company that sells carbon credits by getting the cheapest bundle and calculates each individual's footprints.
+
+Technologies used: [Python, React, Javascript. Sanity CMS]
+Link to the project: [Link]
 ## BSDSA Contributions
 
 As a member of BSDSA, I actively contribute to various data science initiatives and collaborate with fellow members on exciting projects. Some of the activities include organizing workshops, hosting guest lectures, and participating in hackathons.
