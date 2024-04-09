@@ -24,7 +24,7 @@ Hi there! I'm Demir Elmas, a passionate young software developer with a keen int
 ## About Me
 
 I'm currently pursuing my studies in Economics, Management and Computer Scinece in University of Bocconi, I love building robust backend systems that can handle large-scale data and implementing machine learning algorithms to derive meaningful insights.
-
+<!--
 ## Projects
 
 Here are some of my projects that I'm proud of:
@@ -36,7 +36,7 @@ Description: Developed a scalable backend system for an e-commerce platform usin
 ### Project 2: Sentiment Analysis using Machine Learning
 
 Description: Built a sentiment analysis model using natural language processing techniques and trained it on a large dataset of movie reviews. Achieved an accuracy of over 85% in classifying sentiment polarity.
-
+-->
 ## BSDSA Contributions
 
 As a member of BSDSA, I actively contribute to various data science initiatives and collaborate with fellow members on exciting projects. Some of the activities include organizing workshops, hosting guest lectures, and participating in hackathons.
