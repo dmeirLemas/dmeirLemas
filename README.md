@@ -25,6 +25,12 @@ Hi there! I'm Demir Elmas, a passionate young software developer with a keen int
 ## About Me
 
 I'm currently pursuing my studies in Economics, Management and Computer Scinece in University of Bocconi, I love building robust backend systems that can handle large-scale data and implementing machine learning algorithms to derive meaningful insights.
+
+
+[![C++](https://i.imgur.com/Ao2P8iG.png)](https://isocpp.org/) ![Python](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true)
+
+
+
 <!--
 ## Projects
 
@@ -59,6 +65,3 @@ As a member of BSDSA, I actively contribute to various data science initiatives 
 Feel free to reach out to me on [GitHub](https://www.linkedin.com/in/demir-elmas-535695263/) to stay updated on my latest projects and contributions.
 
 [![Follow on GitHub](https://img.shields.io/github/followers/dmeirLemas.svg?style=social)](https://github.com/dmeirLemas)
-
-                                                                                                                [![C++](https://i.imgur.com/Ao2P8iG.png)](https://isocpp.org/) ![Python](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true)
-
