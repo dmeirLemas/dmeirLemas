@@ -60,4 +60,4 @@ Feel free to reach out to me on [GitHub](https://www.linkedin.com/in/demir-elmas
 
 [![Follow on GitHub](https://img.shields.io/github/followers/dmeirLemas.svg?style=social)](https://github.com/dmeirLemas)
 
-[![C++](https://i.imgur.com/Ao2P8iG.png)](https://isocpp.org/) [![Python](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true)] 
+[![C++](https://i.imgur.com/Ao2P8iG.png)](https://isocpp.org/) ![Python](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true)
