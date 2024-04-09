@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![C++](https://i.imgur.com/Ao2P8iG.png)](https://isocpp.org/) [![Python](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true)](https://www.python.org/) [![Flask](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_flask.png?raw=true)](http://flask.pocoo.org/) [![JavaScript](http://3con14.biz/code/_data/js/intro/js-logo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 <!--
 **dmeirLemas/dmeirLemas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
