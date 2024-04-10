@@ -49,17 +49,19 @@ Here are some of the projects I've worked (and I am still workin) on recently:
 
 ### Project 1. Stock Risk Predictor - This algorithm uses neural networks to predict how volatile a stock is by assigning it a score based on if it is going to go up or down.
 
-    Technologies used: [Python, LSTM, ANN]
-    Link to the project: [Link](https://github.com/dmeirLemas/Attempt-at-Stock-Risk-Analysis)
+Technologies used: [Python, LSTM, ANN]
+Link to the project: [Link](https://github.com/dmeirLemas/Attempt-at-Stock-Risk-Analysis)
 
 ### Project 2. Carbon Markets Website - Here my team and I created a website for a company that sells carbon credits by getting the cheapest bundle and calculates each individual's footprints.
 
-    Technologies used: [Python, React, Javascript. Sanity CMS]
-    Link to the project: [Link](https://github.com/Sofro21/carbon-markets/tree/ledio)
+Technologies used: [Python, React, Javascript. Sanity CMS]
+Link to the project: [Link](https://github.com/Sofro21/carbon-markets/tree/ledio)
 
 ### Project 3: Sentiment Analysis using Machine Learning
 
 Description: Built a sentiment analysis model using natural language processing techniques and trained it on a large dataset of movie reviews. Achieved an accuracy of over 89% in classifying sentiments.
+Link to the project: [Link](https://github.com/dmeirLemas/Sentiment-Analysis-IMDB-Reviews)
+
 
 ## BSDSA Contributions
 
