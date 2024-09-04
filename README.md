@@ -52,10 +52,6 @@ Here are some of the projects I've worked (and I am still workin) on recently:
 Technologies used: [Python, LSTM, ANN]
 Link to the project: [Link](https://github.com/dmeirLemas/Attempt-at-Stock-Risk-Analysis)
 
-### Project 2. Carbon Markets Website - Here my team and I created a website for a company that sells carbon credits by getting the cheapest bundle and calculates each individual's footprints.
-
-Technologies used: [Python, React, Javascript. Sanity CMS]
-Link to the project: [Link](https://github.com/Sofro21/carbon-markets/tree/ledio)
 
 ### Project 3: Sentiment Analysis using Machine Learning
 
