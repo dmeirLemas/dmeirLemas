@@ -53,7 +53,7 @@ Technologies used: [Python, LSTM, ANN]
 Link to the project: [Link](https://github.com/dmeirLemas/Attempt-at-Stock-Risk-Analysis)
 
 
-### Project 3: Sentiment Analysis using Machine Learning
+### Project 2: Sentiment Analysis using Machine Learning
 
 Description: Built a sentiment analysis model using natural language processing techniques and trained it on a large dataset of movie reviews. Achieved an accuracy of over 89% in classifying sentiments.
 Link to the project: [Link](https://github.com/dmeirLemas/Sentiment-Analysis-IMDB-Reviews)
