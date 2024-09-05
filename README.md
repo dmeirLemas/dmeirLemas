@@ -61,7 +61,7 @@ Link to the project: [Link](https://github.com/dmeirLemas/Sentiment-Analysis-IMD
 
 ## BSDSA Contributions
 
-As a member of BSDSA, I actively contribute to various data science initiatives and collaborate with fellow members on exciting projects. Some of the activities include organizing workshops, hosting guest lectures, and participating in hackathons.
+As a member of BSDSA, I actively contribute to various data science initiatives and collaborate with fellow members on exciting projects. 
 
 ## Contact Me
 
